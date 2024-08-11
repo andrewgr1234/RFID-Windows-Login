@@ -15,7 +15,8 @@ This project involves automating the login process using an RFID reader and Ardu
 
 | RFID Reader Pin | Arduino Pin |
 | --------------- | ----------- |
-| VCC             | 5V          |
+| 3.3V            | 3.3V        |
+| IRQ             | No need     |
 | GND             | GND         |
 | SDA             | 10          |
 | SCK             | 13          |
